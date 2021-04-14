@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on React JS
 - 🌱 I’m currently learning Node JS, Express JS, MongoDB
-- 👯 I’m looking Job(Software Engineer or Front End Developer)
+- 👯 I’m looking for a Job(Software Engineer or Front End Developer)
 - 💬 Ask me about React Js or Javascript
 - 📫 How to reach me: prince.cuet.77@gmail.com
 - 🥅 2021 Goals: Become MERN Stack Developer
