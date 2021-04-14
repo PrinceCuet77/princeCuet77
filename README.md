@@ -4,10 +4,10 @@
 
 - 🔭 I’m currently working on React JS
 - 🌱 I’m currently learning Node JS, Express JS, MongoDB
-- 👯 I’m looking for a Job(Software Engineer or Front End Developer)
+- 👯 I’m looking for a Job (Software Engineer or Front End Developer)
 - 💬 Ask me about React Js or Javascript
 - 📫 How to reach me: prince.cuet.77@gmail.com
-- 🥅 2021 Goals: Become MERN Stack Developer
+- 🥅 2021 Goals: Become a MERN Stack Developer
 - ⚡ Fun fact: I love to play PUBG and a little bit of interest in mobile photography
 
 ### Connect with me:
@@ -20,6 +20,7 @@
 
 ### Languages and Tools:
 
+[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][vscode]
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][html]
 [<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][css]
 [<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][js]
@@ -33,9 +34,9 @@
 <br />
 <br />
 
-[![Prince's GitHub stats](https://github-readme-stats.vercel.app/api?username=PrinceCuet77&show_icons=true&theme=vue)](https://github.com/PrinceCuet77/github-readme-stats)
+[![Prince's GitHub stats](https://github-readme-stats.vercel.app/api?username=PrinceCuet77&show_icons=true&theme=vue&hide_border=true)](https://github.com/PrinceCuet77/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PrinceCuet77&layout=compact)](https://github.com/PrinceCuet77/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PrinceCuet77&layout=compact&hide_border=true)](https://github.com/PrinceCuet77/github-readme-stats)
 
 [facebook]: https://www.facebook.com/rezoan.shakil.5/
 [instagram]: https://www.instagram.com/__rs_prince77/
@@ -47,3 +48,4 @@
 [mysql]: https://www.youtube.com/watch?v=4cWkVbC2bNE&t=5s
 [git]: https://github.com/PrinceCuet77
 [github]: https://github.com/PrinceCuet77
+[vscode]: https://code.visualstudio.com/
