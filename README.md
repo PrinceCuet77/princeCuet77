@@ -1,14 +1,14 @@
 ### Hi, I'm Rezoan Shakil Prince :man_student:
 
+<img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/680/1*IRGHmiGsa16stedQvIaZfw.gif">
+
 - 🔭 I’m currently working on React JS
 - 🌱 I’m currently learning Node JS, Express JS, MongoDB
-- 👯 I’m looking for a Job (Software Engineer or Front End Developer)
+- 👯 I’m looking for a Job (Front End Developer)
 - 💬 Ask me about React Js or Javascript
 - 📫 How to reach me: prince.cuet.77@gmail.com
 - 🥅 2021 Goals: Become a MERN Stack Developer
 - ⚡ Fun fact: I love to play PUBG and a little bit of interest in mobile photography
-
-<img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/680/1*IRGHmiGsa16stedQvIaZfw.gif">
 
 ### Connect with me:
 
