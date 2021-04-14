@@ -31,6 +31,9 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=PrinceCuet77&show_icons=true&locale=en&layout=compact" alt="PrinceCuet77" /></p>
 
+<br />
+<br />
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=PrinceCuet77&show_icons=true&locale=en" alt="PrinceCuet77" /></p>
 
 [facebook]: https://www.facebook.com/rezoan.shakil.5/
