@@ -1,5 +1,7 @@
 ### Hi, I'm Rezoan Shakil Prince :man_student:
 
+<img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/680/1*IRGHmiGsa16stedQvIaZfw.gif">
+
 - 🔭 I’m currently working on React JS
 - 🌱 I’m currently learning Node JS, Express JS, MongoDB
 - 👯 I’m looking Job(Software Engineer or Front End Developer)
@@ -29,12 +31,7 @@
 <br />
 <br />
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=PrinceCuet77&show_icons=true&locale=en&layout=compact" alt="PrinceCuet77" /></p>
-
-<br />
-<br />
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=PrinceCuet77&show_icons=true&locale=en" alt="PrinceCuet77" /></p>
+[![Prince's GitHub stats](https://github-readme-stats.vercel.app/api?username=PrinceCuet77)](https://github.com/PrinceCuet77/github-readme-stats)
 
 [facebook]: https://www.facebook.com/rezoan.shakil.5/
 [instagram]: https://www.instagram.com/__rs_prince77/
