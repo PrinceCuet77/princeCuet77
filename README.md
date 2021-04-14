@@ -34,9 +34,9 @@
 <br />
 <br />
 
-[![Prince's GitHub stats](https://github-readme-stats.vercel.app/api?username=PrinceCuet77&show_icons=true&theme=vue&hide_border=true)](https://github.com/PrinceCuet77/github-readme-stats)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PrinceCuet77&layout=compact&hide_border=true)](https://github.com/PrinceCuet77/github-readme-stats)
+
+[![Prince's GitHub stats](https://github-readme-stats.vercel.app/api?username=PrinceCuet77&show_icons=true&theme=vue&hide_border=true)](https://github.com/PrinceCuet77/github-readme-stats)
 
 [facebook]: https://www.facebook.com/rezoan.shakil.5/
 [instagram]: https://www.instagram.com/__rs_prince77/
