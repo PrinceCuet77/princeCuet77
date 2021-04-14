@@ -32,9 +32,9 @@
 [instagram]: https://www.instagram.com/__rs_prince77/
 [linkedin]: https://www.linkedin.com/in/rezoan-shakil-prince-3908711a1/
 [html]: https://www.youtube.com/watch?v=-8ORfgUa8ow&t=3s
-[css]: 
-[js]: 
-[reactjs]: 
-[mysql]: 
-[git]:
-[github]: 
+[css]: https://www.youtube.com/watch?v=-8ORfgUa8ow&t=3s
+[js]: https://www.youtube.com/watch?v=2Ji-clqUYnA&t=7250s
+[reactjs]: https://www.youtube.com/watch?v=iZhV0bILFb0&t=5s
+[mysql]: https://www.youtube.com/watch?v=4cWkVbC2bNE&t=5s
+[git]: https://github.com/PrinceCuet77
+[github]: https://github.com/PrinceCuet77
