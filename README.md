@@ -1,5 +1,5 @@
 ### Hi, I'm Rezoan Shakil Prince :man_student:
-I am studying Computer Science Engineering at Chittagong University of Engineering and Technology. I am focusing to set my career in MERN Stack Developer.
+I am a final year student who is studying Computer Science Engineering at Chittagong University of Engineering and Technology. I am focusing to set my career in MERN Stack Developer.
 
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/680/1*IRGHmiGsa16stedQvIaZfw.gif">
 
