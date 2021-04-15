@@ -1,4 +1,5 @@
 ### Hi, I'm Rezoan Shakil Prince :man_student:
+I am studying Computer Science Engineering at Chittagong University of Engineering and Technology. I am focusing to set my career in MERN Stack Developer.
 
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/680/1*IRGHmiGsa16stedQvIaZfw.gif">
 
@@ -9,6 +10,9 @@
 - 📫 How to reach me: prince.cuet.77@gmail.com
 - 🥅 2021 Goals: Become a MERN Stack Developer
 - ⚡ Fun fact: I love to play PUBG and a little bit of interest in mobile photography
+<br />
+
+![Profile views](https://komarev.com/ghpvc/?username=PrinceCuet77&color=blue)
 
 ### Connect with me:
 
