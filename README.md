@@ -1,14 +1,14 @@
 ### Hi, I'm Rezoan Shakil Prince :man_student:
-I am a final year student who is studying Computer Science Engineering at Chittagong University of Engineering and Technology. I am focusing to set my career in MERN Stack Developer.
+I am from Chittagong University of Engineering and Technology. I studied in Computer Science of Engineering. I am focusing to set my career in Full Stack Developer.
 
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/680/1*IRGHmiGsa16stedQvIaZfw.gif">
 
-- 🔭 I’m currently working on React JS
-- 🌱 I’m currently learning Node JS, Express JS, MongoDB
-- 👯 I’m looking for a Job (Front End Developer)
+- 🔭 I’m currently working on [BJIT Group Ltd](https://bjitgroup.com/) as Software Engineer
+- 🌱 I’m currently learning PHP & Laravel
+- 👯 I’m looking for making myself perfect in software engineering 
 - 💬 Ask me about React Js or Javascript
 - 📫 How to reach me: prince.cuet.77@gmail.com
-- 🥅 2021 Goals: Become a MERN Stack Developer
+- 🥅 2021 Goals: Become a Full Stack Developer
 - ⚡ Fun fact: I love to play PUBG and a little bit of interest in mobile photography
 <br />
 
