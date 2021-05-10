@@ -3,7 +3,7 @@ I am from Chittagong University of Engineering and Technology. I studied in Comp
 
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/680/1*IRGHmiGsa16stedQvIaZfw.gif">
 
-- 🔭 I’m currently working on [BJIT Group Ltd](https://bjitgroup.com/) as Software Engineer
+- 🔭 I’m currently working on [BJIT](https://bjitgroup.com/) as Software Engineer
 - 🌱 I’m currently learning PHP & Laravel
 - 👯 I’m looking for making myself perfect in software engineering 
 - 💬 Ask me about React Js or Javascript
