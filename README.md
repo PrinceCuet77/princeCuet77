@@ -4,11 +4,11 @@ I am from Chittagong University of Engineering and Technology. I studied in Comp
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/680/1*IRGHmiGsa16stedQvIaZfw.gif">
 
 - 🔭 I’m currently working on [BJIT Ltd.](https://bjitgroup.com/) as Software Engineer
-- 🌱 I’m currently learning Blockchain
+- 🌱 I’m currently learning Blockchain on Hyperledger Fabric
 - 👯 I’m looking for making myself perfect in software engineering 
-- 💬 Ask me about React Js or Javascript or Blockchain
+- 💬 Ask me about React Js or Javascript or Blockchain or Ethereum
 - 📫 How to reach me: prince.cuet.77@gmail.com
-- 🥅 2021 Goals: Become a Blockchain Developer
+- 🥅 2021 Goals: Become a Blockchain Developer on Hyperledger Fabric
 - ⚡ Fun fact: I love to play PUBG and a little bit of interest in mobile photography
 <br />
 
