@@ -1,14 +1,14 @@
 ### Hi, I'm Rezoan Shakil Prince :man_student:
-I am from Chittagong University of Engineering and Technology. I studied in Computer Science of Engineering. I am focusing to set my career in Blockchain Developer.
+I studied from Chittagong University of Engineering and Technology in Computer Science of Engineering. I am focusing to set my career in Blockchain Developer.
 
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/680/1*IRGHmiGsa16stedQvIaZfw.gif">
 
 - 🔭 I’m currently working on [BJIT Ltd.](https://bjitgroup.com/) as Software Engineer
-- 🌱 I’m currently learning Blockchain on Hyperledger Fabric
+- 🌱 I’m currently learning Hyperledger Fabric and Golang
 - 👯 I’m looking for making myself perfect in software engineering 
-- 💬 Ask me about React Js or Javascript or Blockchain or Ethereum
+- 💬 Ask me about Javascript or Blockchain
 - 📫 How to reach me: prince.cuet.77@gmail.com
-- 🥅 2021 Goals: Become a Blockchain Developer on Hyperledger Fabric
+- 🥅 2021 Goals: Become a Blockchain Developer
 - ⚡ Fun fact: I love to play PUBG and a little bit of interest in mobile photography
 <br />
 
