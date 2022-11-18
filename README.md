@@ -1,5 +1,5 @@
 ### Hi, I'm Rezoan Shakil Prince :man_student:
-I studied from Chittagong University of Engineering and Technology in Computer Science of Engineering. I am focusing to set my career in Blockchain Developer.
+I studied from Chittagong University of Engineering and Technology in Computer Science and Engineering. I am focusing to set my career in Blockchain Development.
 
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/680/1*IRGHmiGsa16stedQvIaZfw.gif">
 
