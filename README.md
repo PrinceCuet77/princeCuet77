@@ -8,7 +8,7 @@ I studied from Chittagong University of Engineering and Technology in Computer S
 - 👯 I’m looking for making myself perfect in software engineering 
 - 💬 Ask me about Blockchain Technology
 - 📫 How to reach me: prince.cuet.77@gmail.com
-- 🥅 2021 Goals: Become a Blockchain Developer
+- 🥅 2023 Goals: Become a Blockchain Developer
 - ⚡ Fun fact: I love to play PUBG and a little bit of interest in mobile photography
 <br />
 
