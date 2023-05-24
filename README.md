@@ -1,5 +1,5 @@
 ### Hi, I'm Rezoan Shakil Prince 👩🏻‍💻
-I am Software Engineer (Blockchain) at BJIT Ltd. I have completed my graduation from Chittagong University of Engineering and Technology. I have been working at BJIT since April, 2021. I received BJIT common & blockchain training and secured 3rd place. Currently, I am working on a JasmyLabo project where I am working on a blockchain platform specially Hyperledger Fabric which is a private blockchain. My expertise fields are Javascript, React Js & blockchain technology. Apart from that I like to watch sci-fi movies and love to spend time with my family. Thank you.
+I am Software Engineer (Blockchain) at BJIT Ltd. I have completed my graduation from Chittagong University of Engineering and Technology. I have been working at BJIT since April, 2021. I received BJIT common & blockchain training and secured 3rd place. Currently, I am working on a JasmyLabo project where I am working on a blockchain platform specially Hyperledger Fabric which is a private blockchain. My expertise fields are Javascript, React Js & blockchain technology. Apart from that I like to watch sci-fi movies and love to spend time with my family.
 
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/680/1*IRGHmiGsa16stedQvIaZfw.gif">
 
