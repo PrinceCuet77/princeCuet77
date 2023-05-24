@@ -3,10 +3,10 @@ I am Software Engineer (Blockchain) at BJIT Ltd. I have completed my graduation 
 
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/680/1*IRGHmiGsa16stedQvIaZfw.gif">
 
-- 🔭 I’m currently working on [BJIT Ltd.](https://bjitgroup.com/) as Software Engineer (Blockchain)
+- 🔭 I’m currently working on [BJIT Ltd.](https://bjitgroup.com/) as Software Engineer
 - 🌱 I’m currently learning Ethereum and Solidity
-- 👯 I’m looking for challenging and innovative software engineering opportunities 
-- 💬 Ask me about Blockchain, JS, React JS, Ethereum, Hyperledger Fabric
+- 👯 I’m looking for challenging and innovative SE opportunities 
+- 💬 Ask me about Blockchain, Ethereum, Hyperledger Fabric
 - 📫 How to reach me: prince.cuet.77@gmail.com
 - 🥅 2023 Goals: Become a Blockchain Developer
 - ⚡ Fun fact: I love to watch sci-fi movies
