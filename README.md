@@ -1,55 +1,51 @@
-### Hi, I'm Rezoan Shakil Prince :man_student:
-I studied from Chittagong University of Engineering and Technology in Computer Science and Engineering. I am focusing to set my career in Blockchain Development.
+### Hi, I'm Rezoan Shakil Prince 👩🏻‍💻
+I am Software Engineer (Blockchain) at BJIT Ltd. I have completed my graduation from Chittagong University of Engineering and Technology. I have been working at BJIT since April, 2021. I received BJIT common & blockchain training and secured 3rd place. Currently, I am working on a JasmyLabo project where I am working on a blockchain platform specially Hyperledger Fabric which is a private blockchain. My expertise fields are Javascript, React Js & blockchain technology. Apart from that I like to watch sci-fi movies and love to spend time with my family. Thank you.
 
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/680/1*IRGHmiGsa16stedQvIaZfw.gif">
 
-- 🔭 I’m currently working on [BJIT Ltd.](https://bjitgroup.com/) as Software Engineer
-- 🌱 I’m currently learning Hyperledger Fabric and Golang
-- 👯 I’m looking for making myself perfect in software engineering 
-- 💬 Ask me about Blockchain Technology
+- 🔭 I’m currently working on [BJIT Ltd.](https://bjitgroup.com/) as Software Engineer (Blockchain)
+- 🌱 I’m currently learning Ethereum and Solidity
+- 👯 I’m looking for challenging and innovative software engineering opportunities 
+- 💬 Ask me about Blockchain, JS, React JS, Ethereum, Hyperledger Fabric
 - 📫 How to reach me: prince.cuet.77@gmail.com
 - 🥅 2023 Goals: Become a Blockchain Developer
-- ⚡ Fun fact: I love to play PUBG and a little bit of interest in mobile photography
+- ⚡ Fun fact: I love to watch sci-fi movies
 <br />
 
 ![Profile views](https://komarev.com/ghpvc/?username=PrinceCuet77&color=blue)
 
 ### Connect with me:
 
-[<img align="left" alt="" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/facebook.svg" />][facebook]
-[<img align="left" alt="" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
-<br />
-
-### Languages and Tools:
-
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][vscode]
-[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][html]
-[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][css]
-[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][js]
-[<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][reactjs]
-[<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />][mysql]
-[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][git]
-[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][github]
+[<img align="left" alt="" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/facebook.svg" />][facebook]
+[<img align="left" alt="" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
 <br />
 <br />
+
+### Languages:
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,html,css,js,react,redux,nextjs,ts,nodejs,solidity,go" />
+</p>
+
+<br />
+
+### Tools:
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,docker,discord,visualstudio,stackoverflow,remix,postman,netlify,linux" />
+  </a>
+</p>
+
 <br />
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PrinceCuet77&layout=compact&hide_border=true)](https://github.com/PrinceCuet77/github-readme-stats)
 
 [![Prince's GitHub stats](https://github-readme-stats.vercel.app/api?username=PrinceCuet77&show_icons=true&theme=vue&hide_border=true)](https://github.com/PrinceCuet77/github-readme-stats)
 
-[facebook]: https://www.facebook.com/rezoan.shakil.5/
+[facebook]: https://www.facebook.com/rezoan.shakil.prince.77
 [instagram]: https://www.instagram.com/__rs_prince77/
 [linkedin]: https://www.linkedin.com/in/rezoan-shakil-prince-3908711a1/
-[html]: https://www.youtube.com/watch?v=-8ORfgUa8ow&t=3s
-[css]: https://www.youtube.com/watch?v=-8ORfgUa8ow&t=3s
-[js]: https://www.youtube.com/watch?v=2Ji-clqUYnA&t=7250s
-[reactjs]: https://www.youtube.com/watch?v=iZhV0bILFb0&t=5s
-[mysql]: https://www.youtube.com/watch?v=4cWkVbC2bNE&t=5s
-[git]: https://github.com/PrinceCuet77
-[github]: https://github.com/PrinceCuet77
-[vscode]: https://code.visualstudio.com/
