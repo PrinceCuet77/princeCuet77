@@ -1,14 +1,20 @@
 ### Hi, I'm Rezoan Shakil Prince 👩🏻‍💻
-I am Software Engineer (Blockchain) at BJIT Ltd. I have completed my graduation from Chittagong University of Engineering and Technology. I have been working at BJIT since April, 2021. I received BJIT common & blockchain training and secured 3rd place. Currently, I am working on a JasmyLabo project where I am working on a blockchain platform specially Hyperledger Fabric which is a private blockchain. My expertise fields are Javascript, React Js & blockchain technology. Apart from that I like to watch sci-fi movies and love to spend time with my family.
+I am a Senior Software Engineer at BJIT Ltd., where I have been contributing since April 2021. I completed my graduation from the Chittagong University of Engineering and Technology (CUET).
+
+During my tenure at BJIT, I received BJIT Common and Blockchain Training, securing 3rd place in the program. Currently, I am working on an innovative Metaverse project, where I am responsible for managing both the frontend (React JS) and backend (Node JS), alongside maintaining a robust PostgreSQL database.
+
+My core areas of expertise include JavaScript, React JS, and Node JS. Along with I am teaching Javascript & React JS.
+
+Beyond my professional pursuits, I enjoy watching sci-fi movies and cherish spending quality time with my family.
 
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/680/1*IRGHmiGsa16stedQvIaZfw.gif">
 
-- 🔭 I’m currently working on [BJIT Ltd.](https://bjitgroup.com/) as Software Engineer
-- 🌱 I’m currently learning Ethereum and Solidity
-- 👯 I’m looking for challenging and innovative SE opportunities 
-- 💬 Ask me about Blockchain, Ethereum, Hyperledger Fabric
+- 🔭 I’m currently working on [BJIT Ltd.](https://bjitgroup.com/) as Senior Software Engineer
+- 🌱 I’m currently learning AWS & preparing for AWS-CCP exam
+- 👯 I’m looking for challenging and innovative development opportunities 
+- 💬 Ask me about MERN Stack
 - 📫 How to reach me: prince.cuet.77@gmail.com
-- 🥅 2023 Goals: Become a Blockchain Developer
+- 🥅 2025 Goals: Become a Full-Stack Developer
 - ⚡ Fun fact: I love to watch sci-fi movies
 <br />
 
